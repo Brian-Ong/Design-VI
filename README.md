@@ -1,17 +1,17 @@
-# Design VI
-## Design VI
-### Design VI
+# Heading 1
+## Heading 2
+### Heading 3
 
-**Design VI**
+**Bold**
 
-_Design VI_
-> Design VI
-1. Design VI
-2. Design VI
-3. Design VI
-+ Design VI
-+ Design VI
-+ Design VI
+_Italics_
+> Quote
+1. First thing
+2. Second thing
+3. Third thing
++ First thing
++ Second thing
++ Third thing
 ```
 git status
 git add
