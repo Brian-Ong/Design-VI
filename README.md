@@ -12,11 +12,9 @@ _Italics_
 + First thing
 + Second thing
 + Third thing
-```
-git status
-git add
-git commit
-```
+
+`git status`
+
 ---
 [Stevens Website](https://www.stevens.edu/)
 
