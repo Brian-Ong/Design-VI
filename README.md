@@ -14,6 +14,8 @@ _Italics_
 + Third thing
 
 `git status`
+`git add`
+`git commit`
 
 ---
 [Stevens Website](https://www.stevens.edu/)
