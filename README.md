@@ -1,6 +1,6 @@
 # Engineering Design VI
-> _"The way to get started is to quit talking and begin doing."_
-> ## **Hobbies**
+> _"The way to get started is to quit **talking** and begin **doing**."_
+> ## Hobbies
 1. Track & Field
    + sprinter on Stevens track & field team
    + 60m-200m indoors
