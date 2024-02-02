@@ -1,13 +1,16 @@
 # Engineering Design VI
-
 > _"The way to get started is to quit talking and begin doing."_
-> ## _**Hobbies**_
-1. First thing
-2. Second thing
-3. Third thing
-+ First thing
-+ Second thing
-+ Third thing
+> ## **Hobbies**
+1. Track & Field
+   + sprinter on Stevens track & field team
+   + 60m-200m indoors
+   + 100m-200m outdoors
+2. Music
+   + playing the piano
+   + creating arrangements of songs using Musescore
+3. Video Games
+   + Minecraft
+   + Clash of Clans
 
 `git status`
 `git add`
