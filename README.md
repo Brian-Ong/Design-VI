@@ -1,10 +1,6 @@
 # Engineering Design VI
 
-
-**Bold**
-
-_Italics_
-> "The way to get started is to quit talking and begin doing."
+> _"The way to get started is to quit talking and begin doing."_
 > ## _**Hobbies**_
 1. First thing
 2. Second thing
