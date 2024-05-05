@@ -1,8 +1,4 @@
 # Engineering Design VI
-# Labs
-
-
-# Assignment 0
 > _"The way to get started is to quit **talking** and begin **doing**."_
 > ## Hobbies
 1. Track & Field
